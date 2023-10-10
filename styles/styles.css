@@ -147,7 +147,7 @@ strong {
     color:var(--cor-tercearia);
 }
 
-@media(max-width: 1250px) {
+@media(max-width: 1251px) {
     .cabecalho {
         padding: 10%;
     }
